@@ -1,0 +1,13 @@
+c:\users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\bin\Debug\EncryptedVideoTool.exe.config
+c:\users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\bin\Debug\EncryptedVideoTool.exe
+c:\users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\bin\Debug\EncryptedVideoTool.pdb
+c:\users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\obj\Debug\EncryptedVideoTool.csprojResolveAssemblyReference.cache
+c:\users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\obj\Debug\EncryptedVideoTool.Form1.resources
+c:\users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\obj\Debug\EncryptedVideoTool.Properties.Resources.resources
+c:\users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\obj\Debug\EncryptedVideoTool.csproj.GenerateResource.Cache
+c:\users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\obj\Debug\EncryptedVideoTool.exe
+c:\users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\obj\Debug\EncryptedVideoTool.pdb
+C:\Users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\bin\Debug\EncryptedVideoTool.exe.manifest
+C:\Users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\bin\Debug\EncryptedVideoTool.application
+C:\Users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\obj\Debug\EncryptedVideoTool.exe.manifest
+C:\Users\cgl\documents\visual studio 2013\Projects\EncryptedVideoTool\EncryptedVideoTool\obj\Debug\EncryptedVideoTool.application
